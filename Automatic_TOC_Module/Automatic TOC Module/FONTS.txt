@@ -1,0 +1,24 @@
+FONTS
+
+3 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+- Name: ArialMT; Type: OpenType TrueType, Status: OK
+Filename: Arial
+Full Name: Arial
+First Used on Page: A
+Protected: No
+Download: system font, should be installed on your computer by default
+
+- Name: Arimo; Type: TrueType, Status: OK
+Filename: Arimo-Regular-Latin.ttf
+Full Name: Arimo
+First Used on Page: 1
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/arimo
+
+- Name: BebasNeue; Type: OpenType Type 1, Status: OK
+Filename: BebasNeue.otf
+Full Name: Bebas Neue
+First Used on Page: 1
+Protected: No
+Download: http://www.dafont.com/bebas-neue.font   

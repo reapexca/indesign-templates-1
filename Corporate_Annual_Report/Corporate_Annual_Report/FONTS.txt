@@ -1,0 +1,47 @@
+FONTS
+
+7 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+- Name: Arial-BoldMT; Type: OpenType TrueType, Status: OK
+Full Name: Arial Bold
+First Used on Page: 5
+Protected: No
+Download: system font, should be installed on your computer by default
+
+- Name: ArialMT; Type: OpenType TrueType, Status: OK
+Full Name: Arial
+First Used on Page: 1
+Protected: No
+Download: system font, should be installed on your computer by default
+
+- Name: AvantGardeITCbyBT-Book; Type: TrueType, Status: OK
+Full Name: Avant Garde Book BT
+First Used on Page: 4
+Protected: No
+Download: http://fliiby.com/file/537734/kkg4k5bz30.html
+
+- Name: AvantGardeITCbyBT-Demi; Type: TrueType, Status: OK
+Full Name: Avant Garde Demi BT
+First Used on Page: 6
+Protected: No
+Download: http://fliiby.com/file/537737/ngexm6bzrf.html
+
+- Name: Cochin; Type: TrueType, Status: OK
+Full Name: Cochin
+First Used on Page: 9
+Protected: No
+Download: none. You won't need this font, it is part of the graphic, replace with any of your choice.
+
+- Name: Delicious-Roman; Type: Type 1, Status: OK
+Full Name: Delicious-Roman
+First Used on Page: A
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/Delicious
+
+- Name: Georgia-BoldItalic; Type: TrueType, Status: OK
+Filename: Macintosh HD:Users:buetler69:Library:Fonts:Georgia
+Full Name: Georgia Bold Italic
+First Used on Page: 7
+Protected: No
+Download: system font, should be installed on your computer by default
+

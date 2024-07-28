@@ -1,0 +1,300 @@
+#affwp-affiliate-dashboard h3.aff-title {
+    margin: 0 0 25px 0;
+}
+
+.affwp-wrap.affwp-referral-url-wrap .description {
+    font-size: 13px;
+    margin-top: 5px;
+}
+
+table.affwp-table {
+	border: 1px solid #eee;
+}
+table.affwp-table td {
+    padding: 18px;
+    vertical-align: middle;
+    background-color: transparent !important;
+}
+
+table.affwp-table td {
+    padding: 18px;
+    font-weight: 400;
+    vertical-align: middle;
+    background-color: transparent !important;
+}
+
+table.affwp-table td, table.affwp-table th {
+	padding: 18px 18px 18px 18px;
+	vertical-align: middle;
+	line-height: 1.42857143;
+}
+
+table.affwp-table th {
+    font-size: 14px;
+    color: #303133;
+}
+
+.page-template-page-account .affwp-form fieldset {
+	margin: 0;
+	padding: 0;
+}
+
+.page-template-page-aff .affwp-form .form-wide {
+    width: 100%;
+    overflow: visible;
+}
+
+#affwp-generate-ref-url input[type="submit"] {
+    width: auto;
+}
+
+.page-template-page-aff .form-row-first,
+.page-template-page-aff .form-row-last {
+    float: left;
+    width: 47%;
+    overflow: visible;
+    color: #303133;
+}
+
+.page-template-page-aff .form-row-last {
+	float: right;
+}
+
+.page-template-page-aff .affwp-form label {
+	display: block;
+	width: auto;
+}
+
+#affwp-affiliate-dashboard .affwp-tab-content {
+    margin-bottom: 25px;
+}
+
+#affwp-affiliate-dashboard-url-generator dt {
+    font-weight: 600;
+    font-size: inherit;
+    margin-bottom: 4px;
+}
+
+#affwp-affiliate-dashboard-url-generator dd {
+    color: inherit;
+    padding-top: 3px;
+    line-height: 1.27;
+    margin: 0;
+    font-size: 15px;
+}
+
+.page-template-page-account .affwp-form input[type="text"],
+.page-template-page-account .affwp-form input[type="email"] {
+	width: 100%;
+}
+
+.page-template-page-account #affwp-payment-email {
+    width: 50% !important;
+}
+
+#affwp-affiliate-dashboard-visits {
+	table-layout: auto;
+}
+
+select#affwp-graphs-date-options {
+	width: 200px;
+	display: inline;
+}
+
+#affwp-graphs-filter input[type="submit"] {
+    font-size: 12px;
+    padding: 9px 25px 9px 25px;
+    margin-left: 5px;
+}
+
+.page-template-page-account .affwp-form .affwp-send-notifications-wrap label {
+	display: inline-block;
+}
+
+p.no-access {
+	margin-bottom: 18px;
+}
+
+#affwp-register-form p:first-child,
+.lost_reset_password p:first-child {
+	margin-top: 0;
+}
+
+.affwp-form legend {
+	margin-bottom: 0;
+}
+
+
+/* Affiliate */
+
+table.affwp-table {
+    border: 1px solid #eaeaea;
+}
+table.affwp-table td {
+    padding: 18px;
+    vertical-align: middle;
+    background-color: transparent !important;
+}
+
+table.affwp-table td {
+    padding: 18px;
+    font-weight: 400;
+    vertical-align: middle;
+    background-color: transparent !important;
+}
+
+table.affwp-table td, table.affwp-table th {
+    padding: 18px 18px 18px 18px;
+    vertical-align: middle;
+    line-height: 1.42857143;
+}
+
+table.affwp-table td, table.affwp-table th {
+    padding: 18px;
+    border: 1px solid #eee;
+}
+
+.page-template-page-aff .affwp-form fieldset {
+    margin: 0;
+    padding: 0;
+}
+
+.page-template-page-aff .affwp-form .form-wide,
+.affwp-form input[type=text], 
+.affwp-form input[type=password], 
+.affwp-form input[type=email], 
+.affwp-form input[type=url], 
+.affwp-form textarea {
+    display: block;
+    width: 50%;
+    overflow: visible;
+}
+
+.affwp-form textarea {
+    width: 100%;
+}
+
+#affwp-generate-ref-url input[type="text"] {
+    width: 100%;
+}
+
+.page-template-page-aff.logged-out .entry-header,
+.page-template-page-aff.logged-out .no-access {
+    display: none;
+}
+
+.page-template-page-aff.logged-in #affwp-register-form.affwp-form,
+.page-template-page-aff.logged-out .affwp-form {
+    background: transparent;
+    padding: 0;
+}
+
+.page-template-page-aff.logged-out .form-row-first, 
+.page-template-page-aff.logged-out .form-row-last {
+    width: 100%;
+}
+
+.page-template-page-aff .form-row-first,
+.page-template-page-aff .form-row-last {
+    float: left;
+    width: 47%;
+    overflow: visible;
+    color: #303133;
+}
+
+.page-template-page-aff .form-row-last {
+    float: right;
+}
+
+.page-template-page-aff .affwp-form label {
+    display: block;
+    width: auto;
+}
+
+#affwp-affiliate-dashboard-url-generator dt {
+    font-weight: 600;
+    font-size: inherit;
+    margin-bottom: 4px;
+}
+
+.page-template-page-aff .affwp-form input[type="text"],
+.page-template-page-aff .affwp-form input[type="email"],
+.page-template-page-aff.logged-out .affwp-form input[type=password] {
+    width: 100%;
+}
+
+#affwp-affiliate-dashboard #affwp-affiliate-dashboard-tabs li:nth-of-type(6) {
+    display: none;
+}
+
+
+#affwp-affiliate-dashboard-profile-form {
+    background: transparent;
+    padding: 0;
+    border: 0;
+}
+
+#affwp-affiliate-dashboard-visits {
+    table-layout: auto;
+}
+
+select#affwp-graphs-date-options {
+    width: 200px;
+    display: inline;
+}
+
+#affwp-graphs-filter input[type="submit"] {
+    font-size: 12px;
+    padding: 13px 31px 13px 31px;
+    margin-left: 5px;
+}
+
+.page-template-page-aff .affwp-form .affwp-send-notifications-wrap label {
+    display: inline-block;
+}
+
+p.no-access {
+    margin-bottom: 18px;
+}
+
+.lost_reset_password input[type="text"] {
+    width: 100%;
+}
+
+.affwp-form legend {
+    margin-bottom: 0;
+}
+
+.page-template-page-aff .aff-description {
+    margin-bottom: 30px;
+}
+
+.page-template-page-account.logged-in .aff-description,
+.page-template-page-aff.logged-in .aff-description {
+    display: none;
+}
+
+.affwp-pagination {
+    font-size: 13px;
+}
+
+.affwp-pagination .page-numbers {
+    border: 1px solid #f4f4f4;
+    margin-right: 3px;
+    border-radius: 4px;
+    padding: 0px 12px;
+    line-height: 30px;
+    display: inline-block;
+}
+
+.affwp-pagination .page-numbers:hover,
+.affwp-pagination .page-numbers.current {
+    background: #009eff;
+    color: #fff;
+    border-color: #009eff;
+}
+
+.page-id-427 .vc_column_container.vc_col-sm-6 .wpb_content_element,
+.page-id-512 .vc_column_container.vc_col-sm-6 .wpb_content_element {
+    margin-bottom: 0;
+}

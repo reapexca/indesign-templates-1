@@ -1,0 +1,27 @@
+FONTS
+
+4 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+- Name: Arial-BoldMT; Type: OpenType TrueType, Status: OK
+Full Name: Arial Bold
+First Used on Page: 7
+Protected: No
+Download: system font, should be installed on your computer by default
+
+- Name: ArialMT; Type: OpenType TrueType, Status: OK
+Full Name: Arial
+First Used on Page: C
+Protected: No
+Download: system font, should be installed on your computer by default
+
+- Name: BebasNeue; Type: OpenType Type 1, Status: OK
+Full Name: Bebas Neue
+First Used on Page: 1
+Protected: No
+Download: http://www.dafont.com/bebas-neue.font   
+
+- Name: CaviarDreams; Type: TrueType, Status: OK
+Full Name: Caviar Dreams
+First Used on Page: 7
+Protected: No
+Download: http://www.dafont.com/caviar-dreams.font

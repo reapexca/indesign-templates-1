@@ -1,0 +1,336 @@
+/* ------------ Menu SF Essentials ------------- */
+
+.sf-menu, .sf-menu * {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.sf-menu li {
+    display: block;
+    position: relative;
+}
+
+.sf-menu ul {
+    font-size: 10px;
+    position: absolute;
+    background: #fbfbfb;
+    color: #222;
+    min-width: 210px;
+    top: 100%;
+    left: 0;
+    text-align: left;
+    z-index: 99;
+    display: none;
+}
+
+.sf-menu > li {
+    line-height: 80px;
+    display: inline-block;
+}
+
+.sf-menu > li:first-child {
+    margin-left: 0;
+}
+
+.sf-menu > li > a {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.sf-menu > li > a:hover {
+    color: #009eff;
+}
+
+.sf-menu > li.user-cart {
+    margin-right: 0;
+}
+
+.sf-menu > li.user-cart a.cart-total {
+    position: relative;
+}
+
+.sf-menu > li.user-cart a span {
+    position: absolute;
+    top: -8px;
+    right: -18px;
+    bottom: 0;
+    background:#009eff;
+    line-height: 17px;
+    color: #fff;
+    border-radius: 50%;
+    width: 17px;
+    height: 17px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.sf-menu > li.user-account a {
+    border-left: 1px solid #ddd;
+    padding-left: 30px;
+}
+
+.sf-menu li:hover > ul,
+.sf-menu li.sfHover > ul {
+    z-index: 9999;
+    display: block;    
+}
+
+.sf-menu ul ul {
+    top: 0;
+    left: 100% !important;
+}
+
+.page_item > ul.children li > a,
+.sub-menu li > a {
+    color: #222;
+    display: block;
+    padding: 10px 22px;
+    border-bottom: 1px solid #f7f7f7;
+    transition: all 0.4s ease-out;
+}
+
+.page_item > ul.children li > a:hover,
+.sub-menu li > a:hover {
+    background: #f8f8f8;
+    color: #222;
+}
+
+.page_item > ul.children li:last-child > a,
+.sub-menu li:last-child > a {
+    border-bottom: none;
+}
+
+/* Menu Arrow Class */
+.sf-menu > .menu-item-has-children > a {
+    padding-right: 9px;
+}
+
+.sub-menu > .menu-item-has-children:before,
+.sf-mobile-menu > .menu-item-has-children:before,
+.sf-menu > .menu-item-has-children:after {
+    position: absolute;
+    right: -7px;
+    top: 50%;
+    margin-top: -6px;
+    content: "\f107";
+    font-family: 'FontAwesome';
+    font-size: 12px;
+    line-height: 1;
+    color: #222;
+}
+
+.sf-mobile-menu > .menu-item-has-children:before,
+.sub-menu > .menu-item-has-children:before {
+    top: 20px;
+    right: 20px;
+    z-index: 1;
+}
+
+/* Tw Menu */
+.site-header {
+    position: relative;
+}
+
+.tw-menu-container {
+    position: relative;
+    z-index: 444;
+    background: #fff;
+    height: 80px;
+}
+
+.header-small .tw-menu-container {
+    position: fixed;
+}
+
+.admin-bar.header-small .tw-menu-container {
+    top: 32px;
+}
+
+@media screen and (max-width: 782px) {
+    .admin-bar.header-small .tw-menu-container{
+        top: 46px;
+    }
+}
+
+.tw-menu .sf-menu {
+    float: right;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 10px;
+    color: #fff;
+    font-weight: 400;
+}
+
+.header-clone {
+    height: 50px;
+    width: 100%;
+}
+
+/* ------------ mobile menu --------------- */
+.mobile-menu-icon {
+    cursor: pointer;
+    float: right;
+    padding: 10px;
+    height: 36px;
+    margin-top: 20px;
+    display: none;
+}
+
+.mobile-menu-icon span, 
+.mobile-menu-icon span:before, 
+.mobile-menu-icon span:after {
+    position: relative;
+    top: 4px;
+    width: 18px;
+    height: 2px;
+    background: #303133;
+    display: block;
+    margin-bottom: -2px;
+    content: '';
+}
+
+.mobile-menu-icon span:before,
+.mobile-menu-icon.active span:before, 
+.mobile-menu-icon.active span:after {
+    top: 5px;
+}
+
+.mobile-menu-icon span:after {
+    top: 10px;
+}
+
+.mobile-menu-icon span, 
+.mobile-menu-icon span:before, 
+.mobile-menu-icon span:after {
+    transition: all 200ms ease-in-out;
+}
+
+.mobile-menu-icon.active span {
+    background-color: transparent;
+}
+
+.mobile-menu-icon.active span:before {
+    transform: rotate(45deg);
+}
+
+.mobile-menu-icon.active span:after {
+    transform: rotate(-45deg);
+}
+
+.tw-mobile-menu > nav ul{
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    -webkit-border-bottom-right-radius: 3px;
+    -webkit-border-bottom-left-radius: 3px;
+    -moz-border-radius-bottomright: 3px;
+    -moz-border-radius-bottomleft: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.tw-mobile-menu > nav ul.sub-menu{
+    display: none;
+    text-align: left;
+    padding-left: 30px;
+}
+
+.tw-mobile-menu > nav ul li{
+    position: relative;
+    border-bottom: 1px solid #f7f7f7;
+}
+
+.tw-mobile-menu > nav ul li ul li{
+    border-bottom: 0;
+}
+
+.tw-mobile-menu > nav ul li ul li:first-child{
+    border-top: 1px solid #f7f7f7;
+}
+
+.tw-mobile-menu > nav ul li a{
+    display: block;
+    font-size: 12px;
+    padding: 12px 20px 8px 20px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    transition: all 0.4s ease-out;
+}
+
+.tw-mobile-menu {
+    left: -400px;
+    overflow-y: visible;
+    background-color: #fff;
+    padding: 80px 0;
+    position: fixed;
+    height: 100%;
+    width: 320px;
+    z-index: 2;
+    -webkit-transition: left 0.4s ease;
+    -moz-transition: left 0.4s ease;
+    -ms-transition: left 0.4s ease;
+    -o-transition: left 0.4s ease;
+    transition: left 0.4s ease;
+    -webkit-box-shadow: -10px 0px 10px -16px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: -10px 0px 10px -16px rgba(0, 0, 0, 0.6);
+    box-shadow: -10px 0px 10px -16px rgba(0, 0, 0, 0.6);
+}
+
+.tw-mobile-menu.right-side {
+    left: auto;
+    right: -400px;
+    -webkit-transition: right 0.4s ease;
+    -moz-transition: right 0.4s ease;
+    -ms-transition: right 0.4s ease;
+    -o-transition: right 0.4s ease;
+    transition: right 0.4s ease;
+}
+
+.tw-mobile-menu > i{
+    font-size: 24px;
+    cursor: pointer;
+    float: right;
+    margin-top: -50px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    margin-right: -11px;
+}
+
+.tw-mobile-menu > nav ul li .icon {
+    display: none;
+}
+
+.footer-menu {
+    text-align: left;
+}
+
+.footer-menu .sf-menu > li  {
+    line-height: normal;
+    margin-left: 0;
+}
+
+.footer-menu .sf-menu > li > a {
+    padding-left: 18px;
+    border-left: 1px solid #f4f4f4;
+    font-size: 13px;
+    line-height: normal;
+    font-weight: 400;
+}
+
+.footer-menu .sf-menu > li.user-cart {
+    display: none;
+}
+
+.footer-menu .sf-menu > li:first-child a {
+    margin-left: 0;
+    padding-left: 0;
+    border-left: 0;
+}

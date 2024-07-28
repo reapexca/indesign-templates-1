@@ -1,0 +1,41 @@
+FONTS
+
+5 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+- Name: Tahoma; Type: OpenType TrueType, Status: OK
+Filename: Tahoma.ttf
+Full Name: Tahoma
+First Used on Page: 11
+Protected: No
+Download: system font, should be installed on your computer by default
+
+- Name: TitilliumText22L-Medium; Type: OpenType Type 1, Status: OK
+Filename: TitilliumText22L004.otf
+Full Name: TitilliumText22L-Medium
+First Used on Page: 1
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/TitilliumText
+
+- Name: TitilliumText22L-Regular; Type: OpenType Type 1, Status: OK
+Filename: TitilliumText22L003.otf
+Full Name: TitilliumText22L-Regular
+First Used on Page: 12
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/TitilliumText
+
+- Name: TitilliumText22L-Thin; Type: OpenType Type 1, Status: OK
+Filename: TitilliumText22L001.otf
+Full Name: TitilliumText22L-Thin
+First Used on Page: 10
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/TitilliumText
+
+- Name: TitilliumText22L-XBold; Type: OpenType Type 1, Status: OK
+Filename: TitilliumText22L006.otf
+Full Name: TitilliumText22L-XBold
+First Used on Page: 11
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/TitilliumText
+
+
+

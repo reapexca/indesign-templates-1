@@ -1,0 +1,52 @@
+FONTS
+
+7 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+- Name: ArialMT; Type: OpenType TrueType, Status: OK
+Filename: Arial.ttf
+Full Name: Arial
+First Used on Page: 5
+Protected: No
+Download: system font
+
+- Name: BebasNeue; Type: OpenType Type 1, Status: OK
+Filename: BebasNeue.otf
+Full Name: Bebas Neue
+First Used on Page: 1
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/bebas-neue
+
+- Name: Bevan; Type: TrueType, Status: OK
+Filename: Bevan.ttf
+Full Name: Bevan
+First Used on Page: 10
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/bevan
+
+- Name: Delicious-Bold; Type: Type 1, Status: OK
+Filename: DelicBol
+Full Name: Delicious-Bold
+First Used on Page: 6
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/Delicious
+
+- Name: Delicious-Roman; Type: Type 1, Status: OK
+Filename: DelicRom
+Full Name: Delicious-Roman
+First Used on Page: 12
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/Delicious
+
+- Name: Doergon-Regular; Type: TrueType, Status: OK
+Filename: Doergon.ttf
+Full Name: Doergon
+First Used on Page: 12
+Protected: No
+Download: http://www.dafont.com/doergon.font
+
+- Name: DoergonBackshift; Type: TrueType, Status: OK
+Filename: DoergonBackshift.ttf
+Full Name: DoergonBackshift
+First Used on Page: 12
+Protected: No
+Download: http://www.dafont.com/doergon.font

@@ -1,0 +1,23 @@
+FONTS
+
+4 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+- Name: ArialMT; Type: OpenType TrueType, Status: OK
+Full Name: Arial
+First Used on Page: 7
+Protected: No
+
+- Name: Impact; Type: OpenType TrueType, Status: OK
+Full Name: Impact
+First Used on Page: 8
+Protected: No
+
+- Name: MyriadPro-Regular; Type: OpenType Type 1, Status: OK
+Full Name: Myriad Pro
+First Used on Page: 8
+Protected: No
+
+- Name: TitilliumText22L-Regular; Type: OpenType Type 1, Status: OK
+Full Name: TitilliumText22L-Regular
+First Used on Page: 5
+Protected: No

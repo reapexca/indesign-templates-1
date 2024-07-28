@@ -1,0 +1,105 @@
+div.subscribeunlock_form_row {
+	margin-bottom: 8px;
+}
+
+div.subscribeunlock_container {
+	text-align: left;
+}
+
+div.subscribeunlock_container p {
+	margin: 0px !important;
+	padding: 0px !important;
+}
+.subscribeunlock_invisible {
+	display: none;
+}
+
+div.subscribeunlock_form_column {
+	width: 280px;
+	float: left;
+}
+div.subscribeunlock_50 {
+	width: 50%;
+}
+div.subscribeunlock_100 {
+	width: 100%;
+}
+div.subscribeunlock_form_column div {
+	padding-right: 25px;
+}
+div.subscribeunlock_form_right_column div {
+	padding-right: 14px !important;
+}
+
+div.subscribeunlock_terms {
+	height: 120px;
+	overflow: scroll;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-o-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	border: 1px solid #CCC;
+	line-height: 18px;
+	font-size: 13px;
+	font-family: arial;
+	padding: 3px;
+	margin-top: 0px;
+}
+
+
+img.subscribeunlock_loading {
+	width: 20px;
+	height: auto;
+	margin: 0px 0px 0px 10px !important;
+	padding: 0px 0px 0px 0px !important;
+	background: transparent !important;
+	display: none;
+	border-width: 0px !important;
+	vertical-align: middle;
+	box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	-moz-box-shadow: none !important;
+}
+.subscribeunlock_error_message {
+	display: block;
+	line-height: 1.4;
+	background: #FBE3E4 url(../images/error.gif) no-repeat 10px 10px;
+	padding: 6px 10px 5px 40px;
+	color: #8a1f11;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	margin-top: 10px;
+	font-size: 13px;
+}
+ul.subscribeunlock_error_messages { padding: 0px; line-height: 1.4;}
+ul.subscribeunlock_error_messages li {line-height: 1.4; color:#333;  margin: 0px !important;}
+
+.subscribeunlock_confirmation_info {
+	margin: 5px 0px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-o-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	padding: 15px 15px;
+	border-width: 2px;
+	border-style: solid;
+	border-spacing: 0;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;	
+	font-family: arial, verdana;
+}
+
+div.subscribeunlock_narrow div.subscribeunlock_form_column {width: 100% !important; margin-bottom: 10px;}
+div.subscribeunlock_narrow div.subscribeunlock_form_column div {padding-right: 14px;}
+
+@media screen and (max-width: 540px) {
+	div.subscribeunlock_form_column {width: 100% !important; margin-bottom: 10px;}
+	div.subscribeunlock_form_column div {padding-right: 14px;}
+}

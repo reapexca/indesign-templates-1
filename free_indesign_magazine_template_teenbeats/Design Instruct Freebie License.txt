@@ -1,0 +1,20 @@
+/**
+ * Free InDesign Magazine Template: Teen Beats Magazine
+ *
+ * URL: http://designinstruct.com/free-resources/free-indesign-magazine-template-teenbeatsmagazine
+ *
+ * You MAY use the source files in this package for commercial
+ * purposes.
+ *
+ * You MAY NOT redistribute or sell the source files in this package.
+ *
+ * Design Instruct (designinstruct.com)
+ *
+ * LICENSE: This source file package is subject to the
+ * Design Instruct Downloadable Freebie Files Usage Terms
+ * that is viewable through the following URL:
+ * http://designinstruct.com/freebie-usage-terms/
+ *
+ * Author     Elena Buetler (www.bestindesigntemplates.com)
+ * License    http://designinstruct.com/freebie-usage-terms/
+ */

@@ -1,0 +1,17 @@
+FONTS
+
+2 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+- Name: CuprumFFU; Type: OpenType Type 1, Status: OK
+Filename: Cuprum.otf
+Full Name: CuprumFFU
+First Used on Page: 4
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/CuprumFFU
+
+- Name: Miso; Type: OpenType Type 1, Status: OK
+Filename: miso.otf
+Full Name: Miso
+First Used on Page: 6
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/Miso

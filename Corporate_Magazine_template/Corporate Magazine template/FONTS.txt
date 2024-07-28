@@ -1,0 +1,81 @@
+FONTS
+
+11 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+- Name: AllerDisplay; Type: OpenType TrueType, Status: OK
+Filename: AllerDisplay.ttf
+Full Name: Aller Display
+First Used on Page: 3
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/Aller
+
+- Name: Arial-Black; Type: TrueType, Status: OK
+Filename: Arial Black
+Full Name: Arial Black
+First Used on Page: 20
+Protected: No
+Download: system font, should be installed on your computer by default
+
+- Name: ArialMT; Type: OpenType TrueType, Status: OK
+Filename: Arial
+Full Name: Arial
+First Used on Page: A
+Protected: No
+Download: system font, should be installed on your computer by default
+
+- Name: Arimo; Type: TrueType, Status: OK
+Filename: Arimo-Regular-Latin.ttf
+Full Name: Arimo
+First Used on Page: 3
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/arimo
+
+- Name: Arimo-Bold; Type: TrueType, Status: OK
+Filename: Arimo-Bold-Latin.ttf
+Full Name: Arimo Bold
+First Used on Page: 1
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/arimo
+
+- Name: Arimo-Italic; Type: TrueType, Status: OK
+Filename: Arimo-Italic-Latin.ttf
+Full Name: Arimo Italic
+First Used on Page: 20
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/arimo
+
+- Name: Bebas; Type: TrueType, Status: OK
+Filename: BEBAS___.ttf
+Full Name: Bebas
+First Used on Page: 1
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/Bebas
+
+- Name: DejaVuSans; Type: TrueType, Status: OK
+Filename: DejaVuSans.ttf
+Full Name: DejaVu Sans
+First Used on Page: 20
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/DejaVu-Sans
+
+- Name: Panefresco750wt-Regular; Type: TrueType, Status: OK
+Filename: Panefresco750wtRegular.ttf
+Full Name: Panefresco 750wt Regular
+First Used on Page: 2
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/panefresco
+
+- Name: Santana-Black; Type: TrueType, Status: OK
+Filename: Santana-Black.ttf
+Full Name: Santana-Black
+First Used on Page: 3
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/Santana
+
+- Name: Santana-Bold; Type: TrueType, Status: OK
+Filename: Santana-Bold.ttf
+Full Name: Santana-Bold
+First Used on Page: 20
+Protected: No
+Download: http://www.fontsquirrel.com/fonts/Santana
+
